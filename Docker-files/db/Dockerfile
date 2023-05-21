@@ -1,8 +1,8 @@
 FROM mysql:5.7.25
-LABEL "Project"="Vprofile"
-LABEL "Author"="Imran"
+LABEL "Project"="Omisweb"
+LABEL "Author"="Omisam"
 
-ENV MYSQL_ROOT_PASSWORD="vprodbpass"
+ENV MYSQL_ROOT_PASSWORD="omisdbpass"
 ENV MYSQL_DATABASE="accounts"
 
 
